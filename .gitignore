@@ -1,6 +1,3 @@
-# Ignorar el archivo CSV de datos
-#data/test.csv
-
 # Ignorar el entorno virtual
 env/
 
