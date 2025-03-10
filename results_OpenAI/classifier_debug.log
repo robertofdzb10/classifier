@@ -1,0 +1,12 @@
+2025-03-10 09:35:04,337 - INFO - CPU: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+2025-03-10 09:35:04,337 - INFO - No se pudo obtener información de la memoria RAM.
+2025-03-10 09:35:04,337 - INFO - GPU: NVIDIA GeForce GTX 1050
+2025-03-10 09:35:04,337 - INFO - Memoria GPU total: 4.00 GB
+2025-03-10 09:35:04,337 - INFO - Evaluando con 4o Mini Classification:
+2025-03-10 09:35:47,429 - INFO - Procesando 100 de 132 (100.00% de aciertos)
+2025-03-10 09:36:02,213 - INFO - Procesando 132 de 132 (100.00% de aciertos)
+2025-03-10 09:36:02,213 - INFO - Evaluación completada. Método 4o Mini Classification. Precisión: 100.00%
+2025-03-10 09:36:02,213 - INFO - Método 4o Mini Classification: Precisión: 100.00% con 0 errores
+2025-03-10 09:36:02,213 - INFO - Tiempo de evaluación para 4o Mini Classification: 57.88 segundos
+2025-03-10 09:36:02,244 - INFO - Resumen de evaluación guardado en 'results_OpenAI\classifier_summary.txt'
+2025-03-10 09:36:02,244 - INFO - Detalle de fallos guardado en 'results_OpenAI\classifier_failures.txt'

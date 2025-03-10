@@ -1,0 +1,9 @@
+// Selección de algoritmo
+Zero-shot estado del arte
+Flan-T5-xl --> Sin tunear, pudiendo dar mejores resultados
+Uno de sus usos tambien es ese, clasificación
+https://www.datacamp.com/es/tutorial/flan-t5-tutorial
+
+he Roberta Large Mnli model is a fine-tuned version of the RoBERTa large model, specifically designed for zero-shot classification tasks
+
+Igual nos quedamos con una uno y ya 

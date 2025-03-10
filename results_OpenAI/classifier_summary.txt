@@ -1,0 +1,16 @@
+Resumen de Evaluación de Métodos
+===============================
+Información de recursos del sistema:
+CPU: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+No se obtuvo información de memoria RAM.
+GPU: NVIDIA GeForce GTX 1050
+Memoria GPU total: 4.00 GB
+
+Método 4o Mini Classification: Precisión: 100.00% con 0 errores de 132 casos evaluados
+Tiempo de evaluación: 57.88 segundos
+Matriz de Confusión:
+[[33  0  0  0]
+ [ 0 33  0  0]
+ [ 0  0 33  0]
+ [ 0  0  0 33]]
+

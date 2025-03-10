@@ -1,0 +1,175 @@
+2025-03-06 19:06:40,658 - INFO - CPU: Intel64 Family 6 Model 85 Stepping 4, GenuineIntel
+2025-03-06 19:06:40,659 - INFO - No se pudo obtener información de la memoria RAM.
+2025-03-06 19:06:40,659 - INFO - GPU: NVIDIA GeForce RTX 4080
+2025-03-06 19:06:40,660 - INFO - Memoria GPU total: 15.99 GB
+2025-03-06 19:06:40,660 - INFO - Evaluando con FLAN-T5-XL:
+2025-03-06 19:08:21,076 - INFO - Procesando 100 de 1374 (100.00% de aciertos)
+2025-03-06 19:10:06,103 - INFO - Procesando 200 de 1374 (82.00% de aciertos)
+2025-03-06 19:11:45,806 - INFO - Procesando 300 de 1374 (88.00% de aciertos)
+2025-03-06 19:13:26,774 - INFO - Procesando 400 de 1374 (83.25% de aciertos)
+2025-03-06 19:15:02,093 - INFO - Procesando 500 de 1374 (86.60% de aciertos)
+2025-03-06 19:16:37,996 - INFO - Procesando 600 de 1374 (85.33% de aciertos)
+2025-03-06 19:18:16,061 - INFO - Procesando 700 de 1374 (87.43% de aciertos)
+2025-03-06 19:19:52,133 - INFO - Procesando 800 de 1374 (86.88% de aciertos)
+2025-03-06 19:21:29,099 - INFO - Procesando 900 de 1374 (88.33% de aciertos)
+2025-03-06 19:23:05,048 - INFO - Procesando 1000 de 1374 (88.20% de aciertos)
+2025-03-06 19:24:43,864 - INFO - Procesando 1100 de 1374 (88.55% de aciertos)
+2025-03-06 19:26:20,497 - INFO - Procesando 1200 de 1374 (89.50% de aciertos)
+2025-03-06 19:27:57,272 - INFO - Procesando 1300 de 1374 (90.23% de aciertos)
+2025-03-06 19:29:07,458 - INFO - Procesando 1374 de 1374 (90.76% de aciertos)
+2025-03-06 19:29:07,458 - INFO - Evaluación completada. Método FLAN-T5-XL. Precisión: 90.76%
+2025-03-06 19:29:07,460 - INFO - Método FLAN-T5-XL: Precisión: 90.76% con 127 errores
+2025-03-06 19:29:07,460 - INFO - Tiempo de evaluación para FLAN-T5-XL: 1346.80 segundos
+2025-03-06 19:29:07,471 - INFO - Evaluando con Zero-Shot Classification:
+2025-03-06 19:29:18,267 - INFO - Procesando 100 de 1374 (71.00% de aciertos)
+2025-03-06 19:29:29,410 - INFO - Procesando 200 de 1374 (79.50% de aciertos)
+2025-03-06 19:29:40,363 - INFO - Procesando 300 de 1374 (72.67% de aciertos)
+2025-03-06 19:29:51,467 - INFO - Procesando 400 de 1374 (78.25% de aciertos)
+2025-03-06 19:30:02,446 - INFO - Procesando 500 de 1374 (75.60% de aciertos)
+2025-03-06 19:30:13,253 - INFO - Procesando 600 de 1374 (78.33% de aciertos)
+2025-03-06 19:30:24,125 - INFO - Procesando 700 de 1374 (76.29% de aciertos)
+2025-03-06 19:30:34,969 - INFO - Procesando 800 de 1374 (78.75% de aciertos)
+2025-03-06 19:30:45,939 - INFO - Procesando 900 de 1374 (76.56% de aciertos)
+2025-03-06 19:30:56,856 - INFO - Procesando 1000 de 1374 (78.20% de aciertos)
+2025-03-06 19:31:07,715 - INFO - Procesando 1100 de 1374 (79.82% de aciertos)
+2025-03-06 19:31:18,804 - INFO - Procesando 1200 de 1374 (81.00% de aciertos)
+2025-03-06 19:31:29,705 - INFO - Procesando 1300 de 1374 (82.15% de aciertos)
+2025-03-06 19:31:37,802 - INFO - Procesando 1374 de 1374 (82.97% de aciertos)
+2025-03-06 19:31:37,803 - INFO - Evaluación completada. Método Zero-Shot Classification. Precisión: 82.97%
+2025-03-06 19:31:37,803 - INFO - Método Zero-Shot Classification: Precisión: 82.97% con 234 errores
+2025-03-06 19:31:37,804 - INFO - Tiempo de evaluación para Zero-Shot Classification: 150.33 segundos
+2025-03-06 19:31:37,815 - INFO - Evaluando con roberta-large-mnli:
+2025-03-06 19:31:46,160 - INFO - Procesando 100 de 1374 (67.00% de aciertos)
+2025-03-06 19:31:54,325 - INFO - Procesando 200 de 1374 (76.50% de aciertos)
+2025-03-06 19:32:02,634 - INFO - Procesando 300 de 1374 (69.00% de aciertos)
+2025-03-06 19:32:10,832 - INFO - Procesando 400 de 1374 (73.50% de aciertos)
+2025-03-06 19:32:18,969 - INFO - Procesando 500 de 1374 (70.20% de aciertos)
+2025-03-06 19:32:27,076 - INFO - Procesando 600 de 1374 (73.83% de aciertos)
+2025-03-06 19:32:35,164 - INFO - Procesando 700 de 1374 (71.86% de aciertos)
+2025-03-06 19:32:43,342 - INFO - Procesando 800 de 1374 (74.12% de aciertos)
+2025-03-06 19:32:51,464 - INFO - Procesando 900 de 1374 (72.56% de aciertos)
+2025-03-06 19:32:59,591 - INFO - Procesando 1000 de 1374 (73.90% de aciertos)
+2025-03-06 19:33:07,887 - INFO - Procesando 1100 de 1374 (75.73% de aciertos)
+2025-03-06 19:33:16,144 - INFO - Procesando 1200 de 1374 (76.92% de aciertos)
+2025-03-06 19:33:24,522 - INFO - Procesando 1300 de 1374 (78.08% de aciertos)
+2025-03-06 19:33:30,594 - INFO - Procesando 1374 de 1374 (79.11% de aciertos)
+2025-03-06 19:33:30,595 - INFO - Evaluación completada. Método roberta-large-mnli. Precisión: 79.11%
+2025-03-06 19:33:30,596 - INFO - Método roberta-large-mnli: Precisión: 79.11% con 287 errores
+2025-03-06 19:33:30,596 - INFO - Tiempo de evaluación para roberta-large-mnli: 112.78 segundos
+2025-03-06 19:33:30,607 - INFO - Evaluando con Ensemble:
+2025-03-06 19:35:30,377 - INFO - Procesando 100 de 1374 (80.00% de aciertos)
+2025-03-06 19:37:30,079 - INFO - Procesando 200 de 1374 (87.00% de aciertos)
+2025-03-06 19:39:28,863 - INFO - Procesando 300 de 1374 (80.33% de aciertos)
+2025-03-06 19:41:28,595 - INFO - Procesando 400 de 1374 (84.50% de aciertos)
+2025-03-06 19:43:24,974 - INFO - Procesando 500 de 1374 (82.60% de aciertos)
+2025-03-06 19:45:22,019 - INFO - Procesando 600 de 1374 (84.83% de aciertos)
+2025-03-06 19:47:19,907 - INFO - Procesando 700 de 1374 (82.86% de aciertos)
+2025-03-06 19:49:16,970 - INFO - Procesando 800 de 1374 (84.88% de aciertos)
+2025-03-06 19:51:15,464 - INFO - Procesando 900 de 1374 (83.00% de aciertos)
+2025-03-06 19:53:12,666 - INFO - Procesando 1000 de 1374 (84.50% de aciertos)
+2025-03-06 19:55:12,258 - INFO - Procesando 1100 de 1374 (85.73% de aciertos)
+2025-03-06 19:57:10,532 - INFO - Procesando 1200 de 1374 (86.50% de aciertos)
+2025-03-06 19:59:08,501 - INFO - Procesando 1300 de 1374 (87.31% de aciertos)
+2025-03-06 20:00:34,411 - INFO - Procesando 1374 de 1374 (87.99% de aciertos)
+2025-03-06 20:00:34,412 - INFO - Evaluación completada. Método Ensemble. Precisión: 87.99%
+2025-03-06 20:00:34,412 - INFO - Método Ensemble: Precisión: 87.99% con 165 errores
+2025-03-06 20:00:34,413 - INFO - Tiempo de evaluación para Ensemble: 1623.80 segundos
+2025-03-07 09:21:09,547 - INFO - CPU: Intel64 Family 6 Model 85 Stepping 4, GenuineIntel
+2025-03-07 09:21:09,548 - INFO - No se pudo obtener información de la memoria RAM.
+2025-03-07 09:21:09,549 - INFO - GPU: NVIDIA GeForce RTX 4080
+2025-03-07 09:21:09,549 - INFO - Memoria GPU total: 15.99 GB
+2025-03-07 09:21:09,550 - INFO - Evaluando con Ensemble_Ponderado_Normalizado:
+2025-03-07 09:23:29,813 - INFO - Procesando 100 de 1374 (81.00% de aciertos)
+2025-03-07 09:25:48,215 - INFO - Procesando 200 de 1374 (87.50% de aciertos)
+2025-03-07 09:28:05,295 - INFO - Procesando 300 de 1374 (81.33% de aciertos)
+2025-03-07 09:30:23,406 - INFO - Procesando 400 de 1374 (85.50% de aciertos)
+2025-03-07 09:32:39,132 - INFO - Procesando 500 de 1374 (83.80% de aciertos)
+2025-03-07 09:34:55,912 - INFO - Procesando 600 de 1374 (85.83% de aciertos)
+2025-03-07 09:37:11,620 - INFO - Procesando 700 de 1374 (84.00% de aciertos)
+2025-03-07 09:39:28,679 - INFO - Procesando 800 de 1374 (85.88% de aciertos)
+2025-03-07 09:42:37,690 - INFO - Procesando 900 de 1374 (84.00% de aciertos)
+2025-03-07 09:45:45,347 - INFO - Procesando 1000 de 1374 (85.40% de aciertos)
+2025-03-07 09:48:55,000 - INFO - Procesando 1100 de 1374 (86.55% de aciertos)
+2025-03-07 09:52:08,026 - INFO - Procesando 1200 de 1374 (87.25% de aciertos)
+2025-03-07 09:55:23,386 - INFO - Procesando 1300 de 1374 (88.00% de aciertos)
+2025-03-07 09:57:42,688 - INFO - Procesando 1374 de 1374 (88.65% de aciertos)
+2025-03-07 09:57:42,689 - INFO - Evaluación completada. Método Ensemble_Ponderado_Normalizado. Precisión: 88.65%
+2025-03-07 09:57:42,689 - INFO - Método Ensemble_Ponderado_Normalizado: Precisión: 88.65% con 156 errores
+2025-03-07 09:57:42,689 - INFO - Tiempo de evaluación para Ensemble_Ponderado_Normalizado: 2193.14 segundos
+2025-03-07 10:16:04,592 - INFO - CPU: Intel64 Family 6 Model 85 Stepping 4, GenuineIntel
+2025-03-07 10:16:04,592 - INFO - No se pudo obtener información de la memoria RAM.
+2025-03-07 10:16:04,593 - INFO - GPU: NVIDIA GeForce RTX 4080
+2025-03-07 10:16:04,593 - INFO - Memoria GPU total: 15.99 GB
+2025-03-07 10:16:04,593 - INFO - Evaluando con Ensemble_Custom:
+2025-03-07 10:18:07,323 - INFO - Procesando 100 de 1374 (73.00% de aciertos)
+2025-03-07 10:20:10,925 - INFO - Procesando 200 de 1374 (84.00% de aciertos)
+2025-03-07 10:22:09,099 - INFO - Procesando 300 de 1374 (76.67% de aciertos)
+2025-03-07 10:24:08,326 - INFO - Procesando 400 de 1374 (82.00% de aciertos)
+2025-03-07 10:26:03,996 - INFO - Procesando 500 de 1374 (78.60% de aciertos)
+2025-03-07 10:28:03,250 - INFO - Procesando 600 de 1374 (80.83% de aciertos)
+2025-03-07 10:30:05,468 - INFO - Procesando 700 de 1374 (78.71% de aciertos)
+2025-03-07 10:32:07,344 - INFO - Procesando 800 de 1374 (80.88% de aciertos)
+2025-03-07 10:34:09,986 - INFO - Procesando 900 de 1374 (78.67% de aciertos)
+2025-03-07 10:36:10,891 - INFO - Procesando 1000 de 1374 (80.10% de aciertos)
+2025-03-07 10:38:15,265 - INFO - Procesando 1100 de 1374 (81.45% de aciertos)
+2025-03-07 10:40:16,154 - INFO - Procesando 1200 de 1374 (82.50% de aciertos)
+2025-03-07 10:42:12,425 - INFO - Procesando 1300 de 1374 (83.46% de aciertos)
+2025-03-07 10:43:36,949 - INFO - Procesando 1374 de 1374 (84.21% de aciertos)
+2025-03-07 10:43:36,950 - INFO - Evaluación completada. Método Ensemble_Custom. Precisión: 84.21%
+2025-03-07 10:43:36,951 - INFO - Método Ensemble_Custom: Precisión: 84.21% con 217 errores
+2025-03-07 10:43:36,951 - INFO - Tiempo de evaluación para Ensemble_Custom: 1652.36 segundos
+2025-03-07 10:43:36,956 - INFO - Evaluando con Ensemble_Custom_v2:
+2025-03-07 10:45:23,878 - INFO - Procesando 100 de 1374 (100.00% de aciertos)
+2025-03-07 10:47:17,013 - INFO - Procesando 200 de 1374 (80.50% de aciertos)
+2025-03-07 10:49:03,262 - INFO - Procesando 300 de 1374 (87.00% de aciertos)
+2025-03-07 10:50:53,544 - INFO - Procesando 400 de 1374 (82.50% de aciertos)
+2025-03-07 10:52:37,342 - INFO - Procesando 500 de 1374 (86.00% de aciertos)
+2025-03-07 10:54:27,176 - INFO - Procesando 600 de 1374 (84.83% de aciertos)
+2025-03-07 10:56:12,683 - INFO - Procesando 700 de 1374 (87.00% de aciertos)
+2025-03-07 10:58:02,508 - INFO - Procesando 800 de 1374 (86.50% de aciertos)
+2025-03-07 10:59:48,481 - INFO - Procesando 900 de 1374 (88.00% de aciertos)
+2025-03-07 11:01:36,037 - INFO - Procesando 1000 de 1374 (87.90% de aciertos)
+2025-03-07 11:03:25,710 - INFO - Procesando 1100 de 1374 (88.27% de aciertos)
+2025-03-07 11:05:11,335 - INFO - Procesando 1200 de 1374 (89.25% de aciertos)
+2025-03-07 11:06:56,550 - INFO - Procesando 1300 de 1374 (90.00% de aciertos)
+2025-03-07 11:08:13,187 - INFO - Procesando 1374 de 1374 (90.54% de aciertos)
+2025-03-07 11:08:13,188 - INFO - Evaluación completada. Método Ensemble_Custom_v2. Precisión: 90.54%
+2025-03-07 11:08:13,189 - INFO - Método Ensemble_Custom_v2: Precisión: 90.54% con 130 errores
+2025-03-07 11:08:13,189 - INFO - Tiempo de evaluación para Ensemble_Custom_v2: 1476.23 segundos
+2025-03-07 12:20:27,720 - INFO - Procesando 100 de 1374 (73.00% de aciertos)
+2025-03-07 12:21:30,868 - INFO - Procesando 200 de 1374 (82.50% de aciertos)
+2025-03-07 12:22:49,885 - INFO - Procesando 300 de 1374 (75.67% de aciertos)
+2025-03-07 12:23:45,212 - INFO - Procesando 400 de 1374 (81.25% de aciertos)
+2025-03-07 12:25:07,554 - INFO - Procesando 500 de 1374 (78.00% de aciertos)
+2025-03-07 12:25:48,728 - INFO - Procesando 600 de 1374 (80.33% de aciertos)
+2025-03-07 12:27:13,322 - INFO - Procesando 700 de 1374 (78.29% de aciertos)
+2025-03-07 12:28:02,037 - INFO - Procesando 800 de 1374 (80.50% de aciertos)
+2025-03-07 12:29:19,672 - INFO - Procesando 900 de 1374 (78.33% de aciertos)
+2025-03-07 12:30:26,622 - INFO - Procesando 1000 de 1374 (79.80% de aciertos)
+2025-03-07 12:31:51,342 - INFO - Procesando 1100 de 1374 (81.18% de aciertos)
+2025-03-07 12:33:45,862 - INFO - Procesando 1200 de 1374 (82.25% de aciertos)
+2025-03-07 12:35:42,282 - INFO - Procesando 1300 de 1374 (83.23% de aciertos)
+2025-03-07 12:37:07,739 - INFO - Procesando 1374 de 1374 (83.99% de aciertos)
+2025-03-07 12:37:07,740 - INFO - Evaluación completada. Método Ensemble_Custom_v3. Precisión: 83.99%
+2025-03-07 12:37:07,740 - INFO - Método Ensemble_Custom_v3: Precisión: 83.99% con 220 errores
+2025-03-07 12:37:07,741 - INFO - Tiempo de evaluación para Ensemble_Custom_v3: 1093.10 segundos
+2025-03-07 12:41:56,548 - INFO - Evaluando con Ensemble_Custom_v4:
+2025-03-07 12:44:01,535 - INFO - Procesando 100 de 1374 (98.00% de aciertos)
+2025-03-07 12:46:04,698 - INFO - Procesando 200 de 1374 (81.00% de aciertos)
+2025-03-07 12:48:12,770 - INFO - Procesando 300 de 1374 (87.00% de aciertos)
+2025-03-07 12:50:21,028 - INFO - Procesando 400 de 1374 (82.50% de aciertos)
+2025-03-07 12:52:23,015 - INFO - Procesando 500 de 1374 (86.00% de aciertos)
+2025-03-07 12:54:31,899 - INFO - Procesando 600 de 1374 (84.83% de aciertos)
+2025-03-07 12:56:36,542 - INFO - Procesando 700 de 1374 (86.71% de aciertos)
+2025-03-07 12:58:37,415 - INFO - Procesando 800 de 1374 (86.25% de aciertos)
+2025-03-07 13:00:39,336 - INFO - Procesando 900 de 1374 (87.56% de aciertos)
+2025-03-07 13:02:40,011 - INFO - Procesando 1000 de 1374 (87.50% de aciertos)
+2025-03-07 13:04:43,553 - INFO - Procesando 1100 de 1374 (87.91% de aciertos)
+2025-03-07 13:06:45,507 - INFO - Procesando 1200 de 1374 (88.92% de aciertos)
+2025-03-07 13:08:47,209 - INFO - Procesando 1300 de 1374 (89.69% de aciertos)
+2025-03-07 13:10:15,500 - INFO - Procesando 1374 de 1374 (90.25% de aciertos)
+2025-03-07 13:10:15,500 - INFO - Evaluación completada. Método Ensemble_Custom_v4. Precisión: 90.25%
+2025-03-07 13:10:15,501 - INFO - Método Ensemble_Custom_v4: Precisión: 90.25% con 134 errores
+2025-03-07 13:10:15,501 - INFO - Tiempo de evaluación para Ensemble_Custom_v4: 1698.95 segundos
+2025-03-06 20:00:34,418 - INFO - Resumen de evaluación guardado en 'results\classifier_summary.txt'
+2025-03-06 20:00:34,421 - INFO - Detalle de fallos guardado en 'results\classifier_failures.txt'

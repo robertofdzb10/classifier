@@ -1,0 +1,83 @@
+Resumen de Evaluación de Métodos
+===============================
+Información de recursos del sistema:
+CPU: Intel64 Family 6 Model 85 Stepping 4, GenuineIntel
+No se obtuvo información de memoria RAM.
+GPU: NVIDIA GeForce RTX 4080
+Memoria GPU total: 15.99 GB
+
+Método FLAN-T5-XL: Precisión: 90.76% con 127 errores de 1374 casos evaluados
+Tiempo de evaluación: 1346.80 segundos
+Matriz de Confusión:
+[[361   0   0   0]
+ [  0 348   0   0]
+ [  0   2 342   0]
+ [ 60   2  63 196]]
+
+Método Zero-Shot Classification: Precisión: 82.97% con 234 errores de 1374 casos evaluados
+Tiempo de evaluación: 150.33 segundos
+Matriz de Confusión:
+[[198   0   7 156]
+ [  0 302   9  37]
+ [  0   0 328  16]
+ [  0   3   6 312]]
+
+Método roberta-large-mnli: Precisión: 79.11% con 287 errores de 1374 casos evaluados
+Tiempo de evaluación: 112.78 segundos
+Matriz de Confusión:
+[[193   0  10 158]
+ [  0 260   3  85]
+ [  0   0 319  25]
+ [  1   0   5 315]]
+
+Método Ensemble: Precisión: 87.99% con 165 errores de 1374 casos evaluados
+Tiempo de evaluación: 1623.80 segundos
+Matriz de Confusión:
+[[229   0   6 126]
+ [  0 332   2  14]
+ [  0   0 334  10]
+ [  0   2   5 314]]
+
+Método Ensemble_Ponderado_Normalizado: Precisión: 88.65% con 156 errores de 1374 casos evaluados
+Tiempo de evaluación: 2193.14 segundos
+Matriz de Confusión:
+[[237   0   2 122]
+ [  0 333   1  14]
+ [  0   0 334  10]
+ [  1   0   6 314]]
+
+Método Ensemble_Custom: Precisión: 84.21% con 217 errores de 1374 casos evaluados
+Tiempo de evaluación: 1652.36 segundos
+Matriz de Confusión:
+[[205   0   0 156]
+ [  0 311   0  37]
+ [  0   2 326  16]
+ [  0   0   6 315]]
+
+Método Ensemble_Custom_v2: Precisión: 90.54% con 130 errores de 1374 casos evaluados
+Tiempo de evaluación: 1476.23 segundos
+Matriz de Confusión:
+[[361   0   0   0]
+ [  0 348   0   0]
+ [  0   2 342   0]
+ [ 63   2  63 193]]
+
+Método Ensemble_Custom_v3: Precisión: 83.99% con 220 errores de 1374 casos evaluados
+Tiempo de evaluación: 1093.10 segundos
+Matriz de Confusión:
+[[205   0   0 156]
+ [  0 311   0  37]
+ [  0   2 326  16]
+ [  3   0   6 312]]
+
+Método Ensemble_Custom_v4: Precisión: 90.25% con 134 errores de 1374 casos evaluados
+Tiempo de evaluación: 1698.95 segundos
+Matriz de Confusión:
+[[354   0   7   0]
+ [  0 348   0   0]
+ [  0   2 342   0]
+ [ 60   3  62 196]]
+
+
+
+
